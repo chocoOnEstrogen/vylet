@@ -39,7 +39,7 @@
 		"typescript": "5.4.5"
 	},
 	"dependencies": {
-		"@commitlint/cli": "19.3.0",
+		"@commitlint/cli": "19.6.1",
 		"@commitlint/config-angular": "19.3.0",
 		"@discordjs/builders": "^1.8.2",
 		"axios": "1.6.8",
