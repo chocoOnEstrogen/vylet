@@ -46,7 +46,7 @@
 		"developer-toolkit-utils": "1.0.9",
 		"discord-api-types": "^0.37.92",
 		"discord.js": "^14.15.3",
-		"dotenv": "16.4.5",
+		"dotenv": "16.4.7",
 		"express": "^4.21.0",
 		"lodash": "4.17.21",
 		"node-cache": "^5.1.2",
